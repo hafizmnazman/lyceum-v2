@@ -12,7 +12,6 @@ backtest.
 Built on the CLO mastery survey and real results, calibrating a Rasch 1PL
 psychometric model. A measured cohort, not roleplay.
 
-**Demo video:** _add your recording link here_ &middot;
 **[Run it locally](#getting-started)** &middot;
 Built with React 18, TypeScript, and Vite 6 over a Rasch 1PL psychometric spine.
 
