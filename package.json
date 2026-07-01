@@ -1,0 +1,37 @@
+{
+  "name": "lyceum-v2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Lyceum v2: stress-test a curriculum change before you commit, grounded in your real cohort. A role-aware, multi-agent curriculum decision system over a Rasch spine.",
+  "author": "Hafiz Azman",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "prove": "node src/prove-acceptance.ts",
+    "prove:backtest": "node src/prove-backtest.ts",
+    "prove:flow": "node src/prove-flow.ts",
+    "prove:signal": "node src/prove-signal.ts",
+    "prove:all": "node src/prove-acceptance.ts && node src/prove-backtest.ts && node src/prove-flow.ts && node src/prove-signal.ts",
+    "gen:xlsx": "node scripts/gen-xlsx.mjs",
+    "gen:music": "node scripts/gen-music.mjs",
+    "smoke": "node scripts/demo-smoke.mjs",
+    "shots": "node scripts/shots.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "puppeteer-core": "^23.11.1",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}

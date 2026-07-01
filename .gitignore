@@ -1,0 +1,10 @@
+node_modules
+dist
+*.local
+.DS_Store
+
+# Internal build docs, kept local, not published
+lyceum-v2-implementation.md
+lyceum-v2-demo-changes.md
+PROJECT_STATE.md
+DECISIONS.md
