@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 152" width="850" height="152" role="img" aria-label="LYCEUM V2">
+<defs><linearGradient id="ramp" gradientUnits="userSpaceOnUse" x1="0" y1="24" x2="0" y2="128"><stop offset="0" stop-color="#2f6db5"/><stop offset="0.55" stop-color="#245892"/><stop offset="1" stop-color="#1a426e"/></linearGradient>
+</defs>
+<style>text { font-family: ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace; font-size: 16.5px; fill: url(#ramp); white-space: pre; }</style>
+<g>
+<text x="24" y="40.5" textLength="802" lengthAdjust="spacing" xml:space="preserve">██╗      ██╗   ██╗  ██████╗ ███████╗ ██╗   ██╗ ███╗   ███╗     ██╗   ██╗ ██████╗ </text>
+<text x="24" y="58.0" textLength="802" lengthAdjust="spacing" xml:space="preserve">██║      ╚██╗ ██╔╝ ██╔════╝ ██╔════╝ ██║   ██║ ████╗ ████║     ██║   ██║ ╚════██╗</text>
+<text x="24" y="75.5" textLength="802" lengthAdjust="spacing" xml:space="preserve">██║       ╚████╔╝  ██║      █████╗   ██║   ██║ ██╔████╔██║     ██║   ██║  █████╔╝</text>
+<text x="24" y="93.1" textLength="802" lengthAdjust="spacing" xml:space="preserve">██║        ╚██╔╝   ██║      ██╔══╝   ██║   ██║ ██║╚██╔╝██║     ╚██╗ ██╔╝ ██╔═══╝ </text>
+<text x="24" y="110.6" textLength="802" lengthAdjust="spacing" xml:space="preserve">███████╗    ██║    ╚██████╗ ███████╗ ╚██████╔╝ ██║ ╚═╝ ██║      ╚████╔╝  ███████╗</text>
+<text x="24" y="128.1" textLength="802" lengthAdjust="spacing" xml:space="preserve">╚══════╝    ╚═╝     ╚═════╝ ╚══════╝  ╚═════╝  ╚═╝     ╚═╝       ╚═══╝   ╚══════╝</text>
+</g>
+</svg>
